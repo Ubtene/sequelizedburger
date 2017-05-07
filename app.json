@@ -1,0 +1,6 @@
+{
+  "name": "sequelizedburgers",
+  "description": "burgers",
+  "repository": "https://github.com/Ubtene/Finda-friend",
+  "keywords": ["node", "express", "heroku"],
+}
